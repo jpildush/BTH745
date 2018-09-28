@@ -25,7 +25,7 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
   Adam (More realistic vote)
   ##### Balsamic
   
-  ##### Adobe xd
+  ##### [Adobe xd](https://www.adobe.com/ca/products/xd.html)
   Adam (Down to try and learn)
   
 ## Meetup before Friday October 5th (Please write your name under 1 or more of the following)
