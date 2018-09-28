@@ -12,21 +12,23 @@
 ### Activity Diagrams continued
 Finish activity diagrams that were missed or thought up after
 ### Wireframes & Mockups for each screen
-Create Pen/Paper drawing of each of the screens
+Create Pen/Paper drawing of each of the screens (as many renditions as you can)
+Try to think of a constraint for your UI as you design (IE - a minimalist design , no button design, etc)
   ##### Login /Register
   ##### Map/ Listing View (Find a location)
   ##### Change settings/Preferences
   ##### List a Property
   ##### Contact Seller
   ##### Go to Saved listings
-## Choose Prototyping tool (Vote with you name under each heading
+## Choose Prototyping tool (Vote with you name under each heading)
   ##### Pencil
-  ##### Balsamic
   Adam (More realistic vote)
+  ##### Balsamic
+  
   ##### Adobe xd
   Adam (Down to try and learn)
   
-## Meetup before Friday (Please write your name under 1 or more of the following)
+## Meetup before Friday October 5th (Please write your name under 1 or more of the following)
 
 #### Monday 
 Adam - before 1:30pm
