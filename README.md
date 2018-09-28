@@ -19,8 +19,18 @@ Create Pen/Paper drawing of each of the screens
   ##### List a Property
   ##### Contact Seller
   ##### Go to Saved listings
-## Choose Prototyping tool 
+## Choose Prototyping tool (Vote with you name under each heading
   ##### Pencil
   ##### Balsamic
-  ##### Adobe xd 
+  Adam (More realistic vote)
+  ##### Adobe xd
+  Adam (Down to try and learn)
   
+## Meetup before Friday (Please write your name under 1 or more of the following)
+
+#### Monday 
+Adam - before 1:30pm
+#### Wednesday
+Adam - before 1:30pm
+#### Thursday
+Adam - After 11:00am
