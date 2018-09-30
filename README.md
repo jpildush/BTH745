@@ -6,7 +6,7 @@
 #### How a user can save locations
 #### How a user  can filter a location
 #### How a User can make contact with the seller
-#### How a user can list their property for sale/ rent
+#### How a user can list their property for sale/rent
 ### Activity Diagrams for each use case
 ## Week 2
 ### Activity Diagrams continued
@@ -20,9 +20,10 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
   ##### List a Property
   ##### Contact Seller
   ##### Go to Saved listings
-## Choose Prototyping tool (Vote with you name under each heading)
+## Choose Prototyping tool (Vote with your name under each heading)
   ##### Pencil
   Adam (More realistic vote)
+  Joe
   ##### Balsamic
   
   ##### [Adobe xd](https://www.adobe.com/ca/products/xd.html)
@@ -32,7 +33,11 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
 
 #### Monday 
 Adam - before 1:30pm
+Joe - 10-1 
+#### Tuesday
+Joe - 1:30-3
 #### Wednesday
 Adam - before 1:30pm
+Joe - 10-1
 #### Thursday
 Adam - After 11:00am
