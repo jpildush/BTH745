@@ -22,7 +22,7 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
   ##### Go to Saved listings
 ## Choose Prototyping tool (Vote with your name under each heading)
   ##### Pencil
-  Adam (More realistic vote)
+  Adam (More realistic vote)  
   Joe
   ##### Balsamic
   
@@ -32,12 +32,12 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
 ## Meetup before Friday October 5th (Please write your name under 1 or more of the following)
 
 #### Monday 
-Adam - before 1:30pm
+Adam - before 1:30pm  
 Joe - 10-1 
 #### Tuesday
 Joe - 1:30-3
 #### Wednesday
-Adam - before 1:30pm
+Adam - before 1:30pm  
 Joe - 10-1
 #### Thursday
 Adam - After 11:00am
