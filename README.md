@@ -24,6 +24,7 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
   ##### Pencil
   Adam (More realistic vote)  
   Joe
+  Michael
   ##### Balsamic
   
   ##### [Adobe xd](https://www.adobe.com/ca/products/xd.html)
@@ -39,5 +40,7 @@ Joe - 1:30-3
 #### Wednesday
 Adam - before 1:30pm  
 Joe - 10-1
+Michael - before 1:30pm
 #### Thursday
 Adam - After 11:00am
+Michael - After 11:am
