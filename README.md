@@ -23,7 +23,7 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
 ## Choose Prototyping tool (Vote with your name under each heading)
   ##### Pencil
   Adam (More realistic vote)  
-  Joe
+  Joe  
   Michael
   ##### Balsamic
   
@@ -39,8 +39,8 @@ Joe - 10-1
 Joe - 1:30-3
 #### Wednesday
 Adam - before 1:30pm  
-Joe - 10-1
+Joe - 10-1  
 Michael - before 1:30pm
 #### Thursday
-Adam - After 11:00am
+Adam - After 11:00am  
 Michael - After 11:am
