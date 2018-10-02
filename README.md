@@ -1,5 +1,5 @@
 # BTH745
-## Week 1
+## Week 2
 #### Use Cases 
 #### How a User logs in / Registers
 #### How a user searches for locations
@@ -8,7 +8,7 @@
 #### How a User can make contact with the seller
 #### How a user can list their property for sale/rent
 ### Activity Diagrams for each use case
-## Week 2
+## Week 3
 ### Activity Diagrams continued
 Finish activity diagrams that were missed or thought up after
 ### Wireframes & Mockups for each screen
