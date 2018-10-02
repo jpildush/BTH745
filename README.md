@@ -22,25 +22,30 @@ Try to think of a constraint for your UI as you design (IE - a minimalist design
   ##### Go to Saved listings
 ## Choose Prototyping tool (Vote with your name under each heading)
   ##### Pencil
-  Adam (More realistic vote)  
-  Joe  
-  Michael
+  * Adam (More realistic vote)  
+  * Joe  
+  * Michael
+  * Ben
   ##### Balsamic
   
   ##### [Adobe xd](https://www.adobe.com/ca/products/xd.html)
-  Adam (Down to try and learn)
+  * Adam (Down to try and learn)
+  * Ben
   
 ## Meetup before Friday October 5th (Please write your name under 1 or more of the following)
 
 #### Monday 
 Adam - before 1:30pm  
-Joe - 10-1 
+Joe - 10-1  
+Ben - after 10
 #### Tuesday
-Joe - 1:30-3
+Joe - 1:30-3  
+Ben - after 12
 #### Wednesday
 Adam - before 1:30pm  
 Joe - 10-1  
 Michael - before 1:30pm
 #### Thursday
 Adam - After 11:00am  
-Michael - After 11:am
+Michael - After 11:am   
+Ben - 11-1
