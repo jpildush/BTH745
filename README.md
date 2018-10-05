@@ -53,4 +53,5 @@ Ben - 11-1
 ## Week 4
 Download and learn Adobe
 Practice making high Fed Mockups using your own Wireframes
+  Make High Fed Mockups of YOUR maps / detail view
 Consolidate Views/Mockups into (up to 3) unique application UIs
