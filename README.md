@@ -1,4 +1,5 @@
 # BTH745
+##### Survey : https://docs.google.com/forms/d/1sbuDY1YfrKoEBIaaGxF5Iu-fH4X_zfSpzmOXZfJqW28/edit 
 ## Week 2
 #### Use Cases 
 #### How a User logs in / Registers
@@ -49,3 +50,7 @@ Michael - before 1:30pm
 Adam - After 11:00am  
 Michael - After 11:am   
 Ben - 11-1
+## Week 4
+Download and learn Adobe
+Practice making high Fed Mockups using your own Wireframes
+Consolidate Views/Mockups into (up to 3) unique application UIs
