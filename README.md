@@ -51,12 +51,12 @@ Adam - After 11:00am
 Michael - After 11:am   
 Ben - 11-1
 ## Week 4
-Download and learn Adobe
-Practice making high Fed Mockups using your own Wireframes
-  Make High Fed Mockups of YOUR maps / detail view
-    So a user should be able to
-    Login and be directed to some 'HomeScreen'
-    Go to maps and search for a location
-    Choose (a) location(s) and save it to details / bookmarks
-    View details and bookmarks
-Consolidate Views/Mockups into (up to 3) unique application UIs
+Download and learn Adobe 
+Practice making high Fed Mockups using your own Wireframes  
+  Make High Fed Mockups of YOUR maps / detail view  
+    So a user should be able to  
+    Login and be directed to some 'HomeScreen'  
+    Go to maps and search for a location  
+    Choose (a) location(s) and save it to details / bookmarks  
+    View details and bookmarks  
+Consolidate Views/Mockups into (up to 3) unique application UIs  
