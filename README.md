@@ -66,7 +66,11 @@ Consolidate Views/Mockups into (up to 3) unique application UIs
 [Adobe Xd Markup by Hung Chu](https://drive.google.com/open?id=1UKpO62hiqEhaiBLhG7qTdcJ_CGJ4UH1z)
 
 ## Week 5
-Define a new task for following week
-Brush up mockups to use pictures and good graphics
+Define a new task for following week  
+Brush up mockups to use pictures and good graphics  
 Create more pages (as a dummy view) just to add complexity
+  
+Stock photos for mockup
+* [List View](https://drive.google.com/open?id=1NloJLNYTcr3aZ-QuPAqt7tumO9aKzA0o)
+* [Detail View](https://drive.google.com/open?id=1WkLXd5NLAtpbcidmtmiOsQ61XVMDkKu3)
 
