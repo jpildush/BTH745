@@ -1,5 +1,6 @@
 # BTH745
 ##### Survey : https://docs.google.com/forms/d/1sbuDY1YfrKoEBIaaGxF5Iu-fH4X_zfSpzmOXZfJqW28/edit 
+##### Survey to fill out: https://goo.gl/forms/TrE6XwbVJtRxdarH3
 ## Week 2
 #### Use Cases 
 #### How a User logs in / Registers
