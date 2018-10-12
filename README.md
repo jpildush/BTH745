@@ -1,5 +1,6 @@
 # BTH745
 ##### Survey : https://docs.google.com/forms/d/1sbuDY1YfrKoEBIaaGxF5Iu-fH4X_zfSpzmOXZfJqW28/edit 
+##### Survey Collaborator: https://docs.google.com/forms/d/1sbuDY1YfrKoEBIaaGxF5Iu-fH4X_zfSpzmOXZfJqW28/edit?usp=sharing
 ##### Survey to fill out: https://goo.gl/forms/25TQ78mbkptnXE1I3
 ## Week 2
 #### Use Cases 
