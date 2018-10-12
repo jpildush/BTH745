@@ -64,3 +64,9 @@ Practice making high Fed Mockups using your own Wireframes
 Consolidate Views/Mockups into (up to 3) unique application UIs  
   
 [Adobe Xd Markup by Hung Chu](https://drive.google.com/open?id=1UKpO62hiqEhaiBLhG7qTdcJ_CGJ4UH1z)
+
+## Week 5
+Define a new task for following week
+Brush up mockups to use pictures and good graphics
+Create more pages (as a dummy view) just to add complexity
+
