@@ -74,3 +74,4 @@ Stock photos for mockup
 * [List View](https://drive.google.com/open?id=1NloJLNYTcr3aZ-QuPAqt7tumO9aKzA0o)
 * [Detail View](https://drive.google.com/open?id=1WkLXd5NLAtpbcidmtmiOsQ61XVMDkKu3)
 
+https://drive.google.com/open?id=1bkTH3JErX4p40dqfTwgpeN80JuRWr_5I 
