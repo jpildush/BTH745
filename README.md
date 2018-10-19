@@ -79,9 +79,12 @@ https://drive.google.com/open?id=1bkTH3JErX4p40dqfTwgpeN80JuRWr_5I
 ## Week 6
 A. Complete Wireframe with details! - Use either Google, Microsoft or Apple assets (Or something else that looks nice!)
   Wireframes must be complex - this means every button that goes somewhere or looks interactable must do so! Even if the destination is   just another dummy page.
+  
 B. Come up with 3 tasks and do them yourself. Record the number of screens required as well as the time it takes to do that task within your application. As a bonus - create 2 short survey questions that is tailored specifically for your application
 
+
 C. Nov 2 is the next class where we will be testing. You are required to be here to help test your app!
+
 D. Set up a meeting before this date ! PLEASE Post your availability after the reading week.
 
 #### Monday 
