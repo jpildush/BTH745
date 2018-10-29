@@ -92,3 +92,7 @@ Adam - After test - before 1:30pm
 
 #### Wednesday
 Adam - before 1:30pm  
+Joe - after 3
+
+#### Thursday
+Joe - 11/12-3
