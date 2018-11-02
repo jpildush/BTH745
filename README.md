@@ -96,3 +96,6 @@ Joe - after 3
 
 #### Thursday
 Joe - 11/12-3
+
+#Week 7
+https://drive.google.com/open?id=1jOoMUsPSIGJbCGrevSjEP3owrY8v4_Rq 
