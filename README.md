@@ -2,6 +2,8 @@
 ##### Survey : https://docs.google.com/forms/d/1sbuDY1YfrKoEBIaaGxF5Iu-fH4X_zfSpzmOXZfJqW28/edit 
 ##### Survey Collaborator: https://docs.google.com/forms/d/1sbuDY1YfrKoEBIaaGxF5Iu-fH4X_zfSpzmOXZfJqW28/edit?usp=sharing
 ##### Survey to fill out: https://goo.gl/forms/25TQ78mbkptnXE1I3
+##### Usability chart https://drive.google.com/open?id=1ODPvN1LbirNoN4A90fF_nccgUpuYyksGC4vkftg9pt0
+##### Tester Instructions https://drive.google.com/open?id=1CO_2i498RmE4zjKsJCnqcG4CjCkjjgW-HIR2d4Ya3iw
 ## Week 2
 #### Use Cases 
 #### How a User logs in / Registers
