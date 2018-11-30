@@ -4,6 +4,7 @@
 ##### Survey to fill out: https://goo.gl/forms/25TQ78mbkptnXE1I3
 ##### Usability chart https://drive.google.com/open?id=1ODPvN1LbirNoN4A90fF_nccgUpuYyksGC4vkftg9pt0
 ##### Tester Instructions https://drive.google.com/open?id=1CO_2i498RmE4zjKsJCnqcG4CjCkjjgW-HIR2d4Ya3iw
+##### Usability Report https://docs.google.com/document/d/1pt2SZpDj_Je5xDQCssKgk9kfLjuIKsB7DJF2pJ6HXGc/edit?usp=sharing 
 ## Week 2
 #### Use Cases 
 #### How a User logs in / Registers
